@@ -18,7 +18,7 @@ function App() {
      <Pricing/>
      <Contact/>
      <Footer/>
-     <Mera name1="soul" name2="aatma" />
+     <Mera name1="soul" name2="aatmag" />
     </>
   )
 }
